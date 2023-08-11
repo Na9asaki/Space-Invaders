@@ -1,0 +1,19 @@
+{
+    "name": "SpaceInvador",
+    "rootNamespace": "SpaceInvador",
+    "references": [
+        "GUID:941945a2da4ebdd4281b178079f8a148",
+        "GUID:788f5f57e8999cb4e98aeb9a32d22d44",
+        "GUID:fd9594946fb29d44795e5d473dd9ebe9",
+        "GUID:a8f156f4c9cb80f4287a480bc930d7f0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
